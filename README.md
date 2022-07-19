@@ -1,1 +1,1 @@
-# Discord-Bot
+# Discord-Pomodoro-Bot
